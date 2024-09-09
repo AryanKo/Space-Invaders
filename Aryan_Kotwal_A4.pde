@@ -119,9 +119,9 @@ void Menu() {
   text("START", 500, 200);
   text ("How To Play", width/2, 245);
 
-  text ("Creator : Aryan Kotwal \n Special Thanks to Mr. Parchimowicz \n", width/2, 600);
+  text ("Creator : Aryan Kotwal \n", width/2, 600);
   textSize(15);
-  text ("All Rights Reserved®  Property of ClassFiveGaming®", width/2, 700);
+  text ("All Rights Reserved®", width/2, 700);
 }
 
 void SetVariables () {
