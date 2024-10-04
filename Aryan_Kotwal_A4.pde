@@ -1,7 +1,5 @@
 /*********************
  *Aryan Kotwal*
- * ICS 3U1 - Assignment 4 *
- **
  *    Space Invaders       *
  **************************/
  //these are the variables declared at the start of the game
